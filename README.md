@@ -39,7 +39,6 @@ Input:
 DELETE /books/:id
 Delete a book.
 
-These API endpoints empower you to perform various operations on the collection of books. Feel free to explore and enhance the capabilities of this simple yet effective Fiber-MongoDB example.
 
 
 
